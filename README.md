@@ -6,17 +6,18 @@ Thanks to https://github.com/huma-teknofest/Keras-RetinaNet-for-Teknofest-2019
 
 **_For snapshot and model files, please text me via "ceritsenihm@gmail.com"_**
 
-
 _(Of course, this result is not fair for HUMA Team. This is just to show my contribution)_
+
 Test with Google Earth Screenshots: 
-HUMA: %49,60
-Benim Model Doğru Algılama Oranı: %84,73
+
+HUMA | SENİH
+------------ | -------------
+%49,60 | %84,73
+
+
 
 ## Examples:
 
 ![Image of Detection](https://github.com/senihcerit/vehicle-detection-retinanet/blob/master/Result%20Images/1.jpg)
 
 ![Image of Detection](https://github.com/senihcerit/vehicle-detection-retinanet/blob/master/Result%20Images/101.JPG)
-
-
-
