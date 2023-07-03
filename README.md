@@ -4,7 +4,6 @@ Thanks to https://github.com/huma-teknofest/Keras-RetinaNet-for-Teknofest-2019
 
 ### Fine tuning with HUMA Team's Model (Drone Images) to VEDAI Dataset (Satellite Images)
 
-**_For snapshot and model files, please text me via "ceritsenihm@gmail.com"_**
 
 _(Of course, this result is not fair for HUMA Team. This is just to show my contribution)_
 
